@@ -3,9 +3,9 @@
     "release": "11.3-RELEASE",
     "artifact": "https://github.com/RogerAirgood/iocage-plugin-rutorrent.git",
     "properties": {
-       	"allow_raw_sockets": 1,
-       	"allow_tun": 1,
-       	"dhcp": 1
+       	        "allow_raw_sockets": 1,
+                "allow_tun": 1,
+       	        "dhcp": 1
     },
     "pkgs": [
 		"lighttpd",
